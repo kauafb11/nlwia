@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Rocketseat Education" src="https://avatars.githubusercontent.com/u/69590972?s=200&v=4" width="100px" />
+  <img alt="Rocketseat Education" src="preview.png" width="100px" />
 </p>
 
 <p align="center">
@@ -40,19 +40,5 @@ Shorts Summary é uma aplicação web para criar resumo de vídeos shorts do You
 
 Esse projeto está sob a licença MIT.
 
----
 
-Feito com 💜 by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
 
-<!--START_SECTION:footer-->
-
-<br />
-<br />
-
-<p align="center">
-  <a href="https://discord.gg/rocketseat" target="_blank">
-    <img align="center" src="https://storage.googleapis.com/golden-wind/comunidade/rodape.svg" alt="banner"/>
-  </a>
-</p>
-
-<!--END_SECTION:footer-->
